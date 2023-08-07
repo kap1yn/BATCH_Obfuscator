@@ -1,0 +1,3 @@
+@echo off
+
+Set key=THERE_WILL_BE_NEW_KEY
