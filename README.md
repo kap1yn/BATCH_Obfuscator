@@ -10,4 +10,3 @@ TEMPLATE_PATH - path where located template.txt (don't modificate this file!)
 
 After this you have to start main.py
 In resulted file you can change ALL WORDS "key" to whatever you want
-
